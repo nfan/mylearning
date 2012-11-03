@@ -1,2 +1,1 @@
-mylearning
-==========
+Init.version
